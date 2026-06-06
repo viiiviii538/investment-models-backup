@@ -1,0 +1,9 @@
+# Secrets（誤混入防止）
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
