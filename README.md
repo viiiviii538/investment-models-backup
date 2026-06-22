@@ -1,12 +1,12 @@
 # Investment Models Backup
 
-**Last updated**: 2026-06-22 
+**Last updated**: 2026-06-23 
 
 ## Projects
 
 - **growth-trading**: 20 files, 17M
-- **crypto-trading**: 7 files, 6.9M
-- **stock-trading**: 2 files, 2.0M
+- **crypto-trading**: 8 files, 7.9M
+- **stock-trading**: 3 files, 3.0M
 
 ## Retention
 
